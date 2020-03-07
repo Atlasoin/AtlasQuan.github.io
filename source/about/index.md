@@ -3,7 +3,9 @@ title: 我是谁
 date: 2020-03-04 23:52:09
 ---
 
-Here's **Atlas**, a coder, trying to become a programmer, a student, wishing to make the world better, a human, struggling to find the answer of the life. Glad to meet you!
+Here's **Atlas**, a coder, trying to become a programmer, a student, wishing to make the world better, a human, struggling to find the answer of the life.
+
+Glad to meet you!
 
 I can speak both Chinese and English, also in very slow progress learning Spanish.
 
