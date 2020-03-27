@@ -1,5 +1,5 @@
 ---
-title: 嵌入式开发入门指北 | 让NUCLEO-F429ZI的小灯闪烁
+title: Linux下嵌入式开发入门指北 | 让NUCLEO-F429ZI的小灯闪烁
 date: 2020-03-022 12:06:00
 tags: 
 - Embedded
