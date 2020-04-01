@@ -269,10 +269,12 @@ div {
         word-break: normal;
         h2 {
             margin: 1.4em 0 1.1em;
+            font-size: 1.37em;
             border-bottom: 1px solid #eee;
             overflow: hidden;
         }
         h3 {
+            font-size: 1.13em;
             margin: 1.4em 0 1.1em;
         }
         pre code {
@@ -1776,4 +1778,25 @@ em.search-keyword {
     li {
         margin: 8px 0;
     }
+}
+
+.quote {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 2.5em 0 2.5em 2em;
+    padding: 0 0 0 1em;
+    color: gray;
+    border-left: 2px solid lightgray;
+}
+.quote::before {
+    content: "";
+    display: block;
+    font-family: times;
+    font-style: normal;
+    font-size: 48px;
+    color: lightgray;
+    font-weight: bold;
+    line-height: 30px;
+    margin-left: -50px;
+    position: absolute;
 }
