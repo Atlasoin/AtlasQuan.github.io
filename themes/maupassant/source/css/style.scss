@@ -1557,9 +1557,15 @@ figure.highlight,
 .toc-article {
   border: 1px solid #bbb;
   border-radius: 7px;
-  margin: 1.1em 0 0 2em;
   padding: 0.7em 0.7em 0 0.7em;
   max-width: 40%;
+  margin: 1.1em 0 0 2em;
+  //if browser width less than 550px, then the toc is 100% width,
+  //since not "float", the margin should be adjusted.
+  @media screen and (max-width: 550px) {
+    max-width: 100%;
+    margin: 3.1em 0 0 0;  
+  }
 }
 .toc-title {
   font-size: 120%;
@@ -1567,6 +1573,11 @@ figure.highlight,
 #toc {
   line-height: 1em;
   float: right;
+  //if browser width less than 550px, then the toc is 100% width,
+  // and should not be float
+  @media screen and (max-width: 550px) {
+    float: none;
+  }
   .toc {
     padding: 0;
     margin: 0.5em;
