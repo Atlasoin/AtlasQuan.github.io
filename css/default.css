@@ -717,7 +717,7 @@ a.gitment-editor-footer-tip:hover {
 }
 
 .gitment-markdown h2 {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 600;
 }
 
@@ -947,12 +947,12 @@ a.gitment-editor-footer-tip:hover {
 
 .gitment-markdown h2 {
   padding-bottom: 0.3em;
-  font-size: 1.5em;
+  font-size: 1.37em;
   border-bottom: 1px solid #eaecef;
 }
 
 .gitment-markdown h3 {
-  font-size: 1.25em;
+  font-size: 1.23em;
 }
 
 .gitment-markdown h4 {
