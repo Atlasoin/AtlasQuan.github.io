@@ -1324,9 +1324,13 @@ figure.highlight,
 .toc-article {
   border: 1px solid #bbb;
   border-radius: 7px;
-  margin: 1.1em 0 0 2em;
   padding: 0.7em 0.7em 0 0.7em;
-  max-width: 40%; }
+  max-width: 40%;
+  margin: 1.1em 0 0 2em; }
+  @media screen and (max-width: 550px) {
+    .toc-article {
+      max-width: 100%;
+      margin: 3.1em 0 0 0; } }
 
 .toc-title {
   font-size: 120%; }
@@ -1334,6 +1338,9 @@ figure.highlight,
 #toc {
   line-height: 1em;
   float: right; }
+  @media screen and (max-width: 550px) {
+    #toc {
+      float: none; } }
   #toc .toc {
     padding: 0;
     margin: 0.5em;
