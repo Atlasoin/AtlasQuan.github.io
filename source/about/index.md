@@ -15,10 +15,9 @@ I can speak both Chinese and English, also in very slow progress learning Spanis
 
 All articles are under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-Feel Free to contact me!
+想要添加友链请留言 Feel Free to contact me!
 
 Roit： @atlasquan：matrix.org
 Email： atlasquan@protonmail.com
 
 哦对了 我还有个B站账号，主要是搬运些我希望更多人看到的视频吧，偶尔日常和科技，如果你有兴趣： https://space.bilibili.com/20184565
-
