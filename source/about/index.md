@@ -17,7 +17,9 @@ All articles are under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by
 
 想要添加友链请留言 Feel Free to contact me!
 
-Roit： @atlasquan：matrix.org
+Element.io（原riot.im） @atlasquan：matrix.org
 Email： atlasquan@protonmail.com
+
+拒绝使用微信 不常刷推
 
 哦对了 我还有个B站账号，主要是搬运些我希望更多人看到的视频吧，偶尔日常和科技，如果你有兴趣： https://space.bilibili.com/20184565
