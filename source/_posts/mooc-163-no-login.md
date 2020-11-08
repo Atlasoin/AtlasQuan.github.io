@@ -54,7 +54,7 @@ toc: true
 
 ## 附录
 
-临时邮箱：[tempmai](https://temp-mail.org/)
+临时邮箱：[tempmail](https://temp-mail.org/)
 
 > 什么是一次性临时电子邮件？
 
