@@ -87,7 +87,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: Coder109
+  - title: 幻
     url: https://coder109.github.io/
   - title: 半吊子全栈开发者的日常
     url: https://printem.pw/
