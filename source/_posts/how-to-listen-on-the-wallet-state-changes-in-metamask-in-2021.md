@@ -2,6 +2,7 @@
 title: How to Listen on the Wallet State Changes in MetaMask in 2021
 date: 2020-12-25 12:43:05
 tags:
+- Blockchain
 ---
 
 There are two very common wallet state changes needed to handle: chainId(network) and account changes. It's a very typical pattern to dynamically detect the current active user and chainId at the time of writing any non-trivial application. This article will introduce how to decently listen on these changes.
