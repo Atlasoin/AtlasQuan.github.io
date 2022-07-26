@@ -2,12 +2,12 @@ sudo: false
 language: node_js
 node_js:
   - 10 # use nodejs v10 LTS
-cache: npm
+cache: pnpm
 branches:
   only:
     - blog-page # build master branch only
 script:
-  - npm install && hexo generate # generate static files
+  - pnpm install hexo-renderer-pug --save && npm install hexo-renderer-sass-next --save && hexo generate # generate static files
 deploy:
   provider: pages
   skip-cleanup: true
